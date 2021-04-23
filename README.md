@@ -19,3 +19,13 @@ Or, you can click Code in the green box at the top right corner and then downloa
 1) Click on AZTurnpoints2021.cup
 2) Click History at the top right
 3) Click any commit to see what was updated
+
+
+## What is a .cup file?
+.cup is a comma separated value (csv) file with the following 13 fields:
+
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
+*Fields 12 userdata and 13 pics are not used by XCSoar*
+
+### 1 Fields
+
