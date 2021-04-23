@@ -24,8 +24,31 @@ Or, you can click Code in the green box at the top right corner and then downloa
 ## What is a .cup file?
 .cup is a comma separated value (csv) file with the following 13 fields:
 
-name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics  
 *Fields 12 userdata and 13 pics are not used by XCSoar*
 
-### 1 Fields
+![](images/1-.JPG)  
 
+![](images/2-.JPG)  
+
+![](images/3-.JPG)  
+
+![](images/4-.JPG)  
+
+![](images/5-.JPG)   
+
+![](images/6-.JPG)  
+
+![](images/7-.JPG)  
+
+![](images/8-.JPG)  
+
+![](images/9-.JPG)  
+
+![](images/10-.JPG)  
+
+
+### 11 - Description
+Keep the description to 200 characters or less to ensure the full message is displayed on all devices. If a comma is used in the description field, enclose the field in quotes.  
+Examples of a good description:  
+Buckeye BXK122.8 AWOS:119.625 RY 17/35:5500x75MGR: KIMM FLATT|623-349-6651  
