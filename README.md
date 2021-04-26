@@ -5,7 +5,7 @@ This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.
     
 ## How to contribute to AZTurnpoints2021.cup?
 1) Click on AZTurnpoints2021.cup
-2) Click on the pencil icon
+2) Click on the pencil icon in the top right corner
 3) Modify the file as necessary, try to keep changes to a single function or turnpoint so that a history is easily viewable
 4) At the bottom of the page, write a quick summary of changes ie. "deleted duplicate flying dare's ranch" and hit propose changes
 5) Click create pull request (twice)
@@ -48,7 +48,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 ![](images/10-.JPG)  
 
 
-### 11 - Description
+### 11 Description
 Keep the description to 200 characters or less to ensure the full message is displayed on all devices. If a comma is used in the description field, enclose the field in quotes.  
 Examples of a good description:  
 Buckeye BXK122.8 AWOS:119.625 RY 17/35:5500x75MGR: KIMM FLATT|623-349-6651  
