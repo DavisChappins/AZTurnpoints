@@ -13,7 +13,6 @@ This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.
 
 ## How to download AZTurnpoints2021.cup?
 Peroidic releases will occur, downloadable on the right side of the page under "Releases"
-Or, you can click Code in the green box at the top right corner and then download zip
 
 ## How do I see what has changed?
 1) Click on AZTurnpoints2021.cup
