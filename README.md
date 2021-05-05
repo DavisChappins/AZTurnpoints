@@ -3,8 +3,11 @@ This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.
 For a detailed step by step walkthrough, see  
 https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing
 
-  
-    
+
+## How to download AZTurnpoints2021.cup?
+Peroidic releases will occur, downloadable on the right side of the page under "Releases"
+
+
 ## How to contribute to AZTurnpoints2021.cup?
 1) Click on AZTurnpoints2021.cup
 2) Click on the pencil icon in the top right corner
@@ -13,10 +16,12 @@ https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMS
 5) Click create pull request (twice)
 6) Someone with write access to the main branch can approve and merge changes into the main branch
 
-## How to download AZTurnpoints2021.cup?
-Peroidic releases will occur, downloadable on the right side of the page under "Releases"
+
 
 ## How do I see what has changed?
+Releases will contain release notes summarizing changes since the previous release.  
+  
+To see individual changes:  
 1) Click on AZTurnpoints2021.cup
 2) Click History at the top right
 3) Click any commit to see what was updated
