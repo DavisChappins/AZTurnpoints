@@ -51,7 +51,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 Keep the description to 200 characters or less to ensure the full message is displayed on all devices. If a comma is used in the description field, enclose the field in quotes.   
 Key things to add to the description field (examples below): Month/Year of update, CTAF, AWOS, Rwy direction, Rwy length, Rwy width, retrieve specific notes, landing specific notes  
 
-Buckeye BXK122.8 AWOS:119.625 RY 17/35:5500x75MGR: KIMM FLATT|623-349-6651  
+Apr2021 Buckeye BXK122.8 AWOS:119.625 RY 17/35:5500x75MGR: KIMM FLATT|623-349-6651  
 May2021 Mobile 1AZ0 130.475 RY 09/27:4500x75MGR: Josh Seagrave 5207238820 Parachute operations
 
 Keep commits small, one or two waypoints so there is a clear history of what has changed. Please do not update 50 waypoints in one go.  
