@@ -51,3 +51,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 Keep the description to 200 characters or less to ensure the full message is displayed on all devices. If a comma is used in the description field, enclose the field in quotes.  
 Examples of a good description:  
 Buckeye BXK122.8 AWOS:119.625 RY 17/35:5500x75MGR: KIMM FLATT|623-349-6651  
+
+## Tools
+Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php
