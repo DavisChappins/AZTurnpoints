@@ -4,11 +4,11 @@ For a detailed step by step walkthrough, see
 https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing
 
 
-## How to download AZTurnpoints2021.cup?
+## How do I download AZTurnpoints2021.cup?
 Peroidic releases will occur, downloadable on the right side of the page under "Releases"
 
 
-## How to contribute to AZTurnpoints2021.cup?
+## How do I contribute to AZTurnpoints2021.cup?
 1) Click on AZTurnpoints2021.cup
 2) Click on the pencil icon in the top right corner
 3) Modify the file as necessary, try to keep changes to a single function or turnpoint so that a history is easily viewable
