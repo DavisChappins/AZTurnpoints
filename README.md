@@ -65,4 +65,5 @@ Keep commits small, one or two waypoints so there is a clear history of what has
 If an airport is discovered to be unlandable, rename it with a lower case “x” in front, ie. “x Empire Ranch” and change it to Waypoint Type 1 to ensure it is not displayed as an airport, Do not delete the waypoint
 
 ## Tools
-Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php
+Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php  
+Find elevation https://www.freemaptools.com/elevation-finder.htm
