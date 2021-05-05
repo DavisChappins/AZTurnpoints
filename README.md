@@ -21,10 +21,10 @@ Peroidic releases will occur, downloadable on the right side of the page under "
 
 
 ## What is a .cup file?
-.cup is a comma separated value (csv) file with the following 13 fields:
+.cup is a comma separated value (csv) file with the following 14 fields:
 
-name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics  
-*Fields 12 userdata and 13 pics are not used by XCSoar*
+name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics  
+*Fields 13 userdata and 14 pics are not used by XCSoar*
 
 ![](images/1-.JPG)  
 
