@@ -50,11 +50,16 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 ![](images/8-.JPG)  
 
 ![](images/9-.JPG)  
-
+  
+### 10 Runway Width
+Number with unit representing width of the runway. Only used with Waypoint style types 2, 3, 4, and 5. The unit can be either "m" for meters "nm" for nautical miles "mi" for statute miles. Decimal separator must be a point.
+  
+Example: 15.3m
+  
 ![](images/10-.JPG)  
 
 
-### 11 Description and Best Practices
+### 12 Description and Best Practices
 Keep the description to 200 characters or less to ensure the full message is displayed on all devices. If a comma is used in the description field, enclose the field in quotes.   
 Key things to add to the description field (examples below): Month/Year of update, CTAF, AWOS, Rwy direction, Rwy length, Rwy width, retrieve specific notes, landing specific notes  
 
