@@ -1,7 +1,13 @@
 # AZTurnpoints2021
 This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.  
 For a detailed step by step walkthrough, see  
-https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing
+https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing  
+
+In this file some waypoints have prefixes:  
+* x: no longer landable, do not land here
+* u: an in-person survey has not been done, satellite survey only
+* 911: emergency only, may be to narrow or unsuitable
+* 911u: emergency only and unsurveyed
 
 
 ## How do I download AZTurnpoints2021.cup?
