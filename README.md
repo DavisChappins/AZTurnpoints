@@ -76,6 +76,12 @@ May2021 Mobile 1AZ0 130.475 RY 09/27:4500x75MGR: Josh Seagrave 5207238820 Parach
 Keep commits small, one or two waypoints so there is a clear history of what has changed. Please do not update 50 waypoints in one go.  
 If an airport is discovered to be unlandable, rename it with a lower case “x” in front, ie. “x Empire Ranch” and change it to Waypoint Type 1 to ensure it is not displayed as an airport, Do not delete the waypoint
 
+### 13 Userdata
+Not used for now
+
+### 14 Pics
+Not used for now
+
 ## Tools
 Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php  
 Find elevation https://www.freemaptools.com/elevation-finder.htm
