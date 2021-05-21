@@ -84,4 +84,5 @@ Not used for now
 
 ## Tools
 Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php  
-Find elevation https://www.freemaptools.com/elevation-finder.htm
+Find elevation https://www.freemaptools.com/elevation-finder.htm  
+Cup file helper tool to easily decode and encode rows https://docs.google.com/spreadsheets/d/1wbVaSxi1VFkD8yJkzLH4jYHOpkiJ1mFUrmz59kaaugs/edit?usp=sharing
