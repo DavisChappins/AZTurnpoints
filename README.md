@@ -1,4 +1,4 @@
-# AZTurnpoints2021
+# AZTurnpoints
 This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.  
 For a detailed step by step walkthrough, see  
 https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing  
@@ -11,11 +11,11 @@ In this file some waypoints have **suffixes**:
   
 This cup file will attempt to stay consistent with the Tucson Soaring XC Map at https://www.google.com/maps/d/u/0/edit?mid=1kHawbgbNa_hPMl5rvOVMP27UdMX1PvQ_&ll=32.39213804431958%2C-111.49211784793266&z=11
 
-## How do I download AZTurnpoints2021.cup?
+## How do I download AZTurnpoints.cup?
 Peroidic releases will occur, downloadable on the right side of the page under "Releases"
 
 
-## How do I contribute to AZTurnpoints2021.cup?
+## How do I contribute to AZTurnpoints.cup?
 1) Click on AZTurnpoints2021.cup
 2) Click on the pencil icon in the top right corner
 3) Modify the file as necessary, try to keep changes to a single function or turnpoint so that a history is easily viewable
