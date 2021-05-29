@@ -3,11 +3,11 @@ This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.
 For a detailed step by step walkthrough, see  
 https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing  
 
-In this file some waypoints have prefixes:  
+In this file some waypoints have **suffixes**:  
 * x: no longer landable, do not land here
 * u: an in-person survey has not been done, satellite survey only
 * 911: emergency only, may be to narrow or unsuitable
-* 911u: emergency only and unsurveyed
+* 911 u: emergency only and unsurveyed
   
 This cup file will attempt to stay consistent with the Tucson Soaring XC Map at https://www.google.com/maps/d/u/0/edit?mid=1kHawbgbNa_hPMl5rvOVMP27UdMX1PvQ_&ll=32.39213804431958%2C-111.49211784793266&z=11
 
