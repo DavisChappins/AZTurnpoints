@@ -1,5 +1,5 @@
 # AZTurnpoints
-This is a list of turnpoints for Arizona, focused around Estrella and El Tiro.  
+This is a list of turnpoints for Arizona, focused around Estrella and El Tiro, but extending into California, Nevada, Utah, and New Mexico.  
 For a detailed step by step walkthrough, see  
 https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing  
 
