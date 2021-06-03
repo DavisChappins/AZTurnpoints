@@ -12,7 +12,8 @@ In this file some waypoints have **suffixes**:
 This cup file will attempt to stay consistent with the Tucson Soaring XC Map at https://www.google.com/maps/d/u/0/edit?mid=1kHawbgbNa_hPMl5rvOVMP27UdMX1PvQ_&ll=32.39213804431958%2C-111.49211784793266&z=11
 
 ## How do I download AZTurnpoints.cup?
-Peroidic releases will occur, downloadable on the right side of the page under "Releases"
+Peroidic releases will occur, downloadable on the right side of the page under "Releases"  
+If you are on a mobile device, scroll down to the bottom of the page and click "Releases"
 
 
 ## How do I contribute to AZTurnpoints.cup?
