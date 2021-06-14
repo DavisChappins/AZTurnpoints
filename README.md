@@ -1,7 +1,6 @@
 # AZTurnpoints
 This is a list of turnpoints for Arizona, focused around Estrella and El Tiro, but extending into California, Nevada, Utah, and New Mexico.  
-For a detailed step by step walkthrough, see  
-https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing  
+
 
 In this file some waypoints have **suffixes**:  
 * x: no longer landable, do not land here
@@ -22,8 +21,10 @@ If you are on a mobile device, scroll down to the bottom of the page and click "
 3) Modify the file as necessary, try to keep changes to a single function or turnpoint so that a history is easily viewable
 4) At the bottom of the page, write a quick summary of changes ie. "deleted duplicate flying dare's ranch" and hit propose changes
 5) Click create pull request (twice)
-6) Someone with write access to the main branch can approve and merge changes into the main branch
+6) Someone with write access to the main branch can approve and merge changes into the main branch  
 
+  For a detailed step by step walkthrough, see  
+https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing  
 
 
 ## How do I see what has changed?
