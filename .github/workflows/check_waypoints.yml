@@ -1,0 +1,24 @@
+name: check_waypoints
+
+on: 
+  push:
+    branches: [ master ]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: pip install aerofiles
+        uses: BSFishy/pip-action@v1
+        with:
+          packages: aerofiles
+
+      - name: Check Waypoints
+        run: |
+          set -e
+          for each in *.cup ; do python ./scripts/check-waypoints "${each}" ; done
