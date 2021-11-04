@@ -35,6 +35,10 @@ To see individual changes:
 2) Click History at the top right
 3) Click any commit to see what was updated
 
+## Helpful Tools
+* Cup file helper tool to easily decode and encode rows and convert lat lon https://docs.google.com/spreadsheets/d/1wbVaSxi1VFkD8yJkzLH4jYHOpkiJ1mFUrmz59kaaugs/edit?usp=sharing  
+* Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php  
+* Find elevation https://www.freemaptools.com/elevation-finder.htm
 
 ## What is a .cup file?
 .cup is a comma separated value (csv) file with the following 14 fields:
@@ -84,7 +88,4 @@ Not used for now
 ### 14 Pics
 Not used for now
 
-## Tools
-* Cup file helper tool to easily decode and encode rows and convert lat lon https://docs.google.com/spreadsheets/d/1wbVaSxi1VFkD8yJkzLH4jYHOpkiJ1mFUrmz59kaaugs/edit?usp=sharing  
-* Google maps coordinates to DDMM.MMM converter https://www.sunearthtools.com/dp/tools/conversion.php  
-* Find elevation https://www.freemaptools.com/elevation-finder.htm
+
