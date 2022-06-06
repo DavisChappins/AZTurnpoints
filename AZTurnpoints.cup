@@ -320,7 +320,7 @@ Hatch Muni,250HATCH,US,3239.667N,10711.883W,1243.6m,5,110,1252.7m,,122.9,Hatch E
 Hefner Farms,7TS9,US,3436.217N,10251.590W,1267.7m,2,40,527.3m,,,"Private, 7TS9, RW width: 35",,
 Hemet-Ryan,HMT,US,3344.042N,11701.338W,461.8m,5,50,1315.2m,,123,"HMT, RW width: 100, UNICOM: 123.0, Fuel: 100LL",,
 Henderson Executive,HND,US,3558.372N,11508.067W,759.6m,5,167,1981.5m,,125.1,"HND, RW width: 100, ATIS: 120.775, Tower: 125.1, UNICOM: 122.95, Fuel: 100LL",,
-Heritage NV,NV42,US,3546.549N,11537.884W,784.9m,2,20,1005.8m,,,"Private, NV42, RW width: 50",,
+Heritage x,NV42,US,3546.549N,11537.884W,784.9m,0,20,1005.8m,,,"Not Landable do not land here - Private, NV42, RW width: 50",,
 Hesperia,L26,US,3422.617N,11718.963W,1033.3m,5,30,1191.8m,,123,"L26, RW width: 50, UNICOM: 123.0, Fuel: 100LL",,
 Hidden Valley,AZ43,US,3303.250N,11210.417W,379.5m,5,80,807.7m,,,"Private, AZ43, RW width: 50, very busy SKYDIVING ops",,
 High Desert Ranch,2NM9,US,3411.950N,10509.850W,1699.3m,2,90,1609.3m,,,"Private, 2NM9, RW width: 95",,
