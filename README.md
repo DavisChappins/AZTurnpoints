@@ -12,7 +12,10 @@ This cup file will attempt to stay consistent with the Tucson Soaring XC Map at 
 
 ## How do I download AZTurnpoints.cup?
 Peroidic releases will occur, downloadable on the right side of the page under "Releases"  
-If you are on a mobile device, scroll down to the bottom of the page and press "Releases"
+If you are on a mobile device, scroll down to the bottom of the page and press "Releases"  
+  
+Releases are periodic and named after the timing of their release - AZTurnpoints(Month)(Year).cup
+  
 
 
 ## How do I contribute to AZTurnpoints.cup?
