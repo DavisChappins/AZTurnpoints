@@ -31,7 +31,7 @@ https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMS
 Releases will contain release notes summarizing changes since the previous release.  
   
 To see individual changes:  
-1) Click on AZTurnpoints2021.cup
+1) Click on AZTurnpoints.cup
 2) Click History at the top right
 3) Click any commit to see what was updated
 
