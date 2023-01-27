@@ -16,7 +16,7 @@ If you are on a mobile device, scroll down to the bottom of the page and press "
 
 
 ## How do I contribute to AZTurnpoints.cup?
-1) Click on AZTurnpoints2021.cup
+1) Click on AZTurnpoints.cup
 2) Click on the pencil icon in the top right corner
 3) Modify the file as necessary, try to keep changes to a single function or turnpoint so that a history is easily viewable
 4) At the bottom of the page, write a quick summary of changes ie. "deleted duplicate flying dare's ranch" and hit propose changes
