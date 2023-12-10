@@ -14,7 +14,8 @@ This cup file will attempt to stay consistent with the Tucson Soaring XC Map at 
 Peroidic releases will occur, downloadable on the right side of the page under "Releases"  
 If you are on a mobile device, scroll down to the bottom of the page and press "Releases"  
   
-Releases are periodic and named after the timing of their release - AZTurnpoints(Month)(Year).cup
+Releases are periodic and named after the timing of their release - AZTurnpoints(Month)(Year).cup  
+See https://github.com/DavisChappins/AZTurnpoints/releases
   
 
 
